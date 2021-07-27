@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Manas Kumar Harsh](mailto:manas.harsh@owasp.org)
+* [Tushar Verma](mailto:tushar.verma@owasp.org)
