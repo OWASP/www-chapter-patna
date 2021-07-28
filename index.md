@@ -31,6 +31,10 @@
             Pratik Singh
            </p>
 <div>
+   <h1>Links</h1>
+   <a href = "https://www.meetup.com/owasp-patna/">MeetUp</a>
+   </div>
+        <div>
 <h1>Upcoming MeetUps</h1>
    <p>
       14th August: On Google Meet(Virtual Meetup)
