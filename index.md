@@ -1,11 +1,9 @@
 
 ### Welcome
-
 Welcome to the OWASP Patna Chapter home page! We are planning some things and we will surely come up with new ideas and implementations.
 Your chapter leaders are Manas Harsh and Tushar Verma
 
 ### Participation
-
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
