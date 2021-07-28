@@ -14,9 +14,9 @@
 
 <div>
 <h1>Leaders</h1>
-<br>
-<p>
 <a href = "mailto: manas.harsh@owasp.org">Manas Harsh</a>
+   <br>
+   <br>
 <a href = "mailto: tushar.verma@owasp.org">Tushar Verma</a>
 </p>
    <div>
