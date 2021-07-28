@@ -5,8 +5,8 @@ Welcome to OWASP Patna! This chapter is built to share the knowledge regarding a
 </p>
 
 <div>
-# Call for Speakers
-<p>
-Call For Speakers is open - if you would like to present a talk on Application Security or any trending security topics at future OWASP Patna Chapter events - please review  and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
-</p>
+  <h1> Call for Speakers</h1>
+  <p>
+  Call For Speakers is open - if you would like to present a talk on Application Security or any trending security topics at future OWASP Patna Chapter events - please review  and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
+  </p>
 <div>
