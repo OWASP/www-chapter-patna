@@ -1,6 +1,5 @@
 <div>
 <h1> OWASP Patna</h1>
-<br>
 <p>
    Welcome to OWASP Patna! This chapter is built to share the knowledge regarding application security and other security stuff, on one place:)
 </p>
