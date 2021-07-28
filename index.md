@@ -1,11 +1,11 @@
+@@ -0,0 +1,84 @@
++ ---
 
----
-
-layout: col-sidebar
-title: OWASP Patna
-tags: example-tag
-region: Asia
-meetup-group:
++ layout: col-sidebar
++ title: OWASP Patna
++ tags: example-tag
++ region: Asia
++ meetup-group:
 
 ---
 
