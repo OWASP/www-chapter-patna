@@ -1,15 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Patna
-tags: example-tag
-region: Asia
-meetup-group:
-
----
-
-<div style='color:red;'>
-
 
 ## Welcome
 Welcome to the OWASP Mumbai Chapter home page! We are planning some things and we will surely come up with new ideas and implementations.
