@@ -3,4 +3,5 @@
 * [Tushar Verma](mailto:tushar.verma@owasp.org)
 
 ### Core members
-* Rahul singh
+* [Rahul singh]
+* [Prateek singh]
