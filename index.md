@@ -13,7 +13,7 @@
 </div>
 
 <div>
-<h1>Leaders<h1>
+<h1>Leaders</h1>
 <br>
 <p>
 <a href = "mailto: manas.harsh@owasp.org">Manas Harsh</a>
