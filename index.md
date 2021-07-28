@@ -16,9 +16,7 @@
 <h1>Leaders</h1>
 <a href = "mailto: manas.harsh@owasp.org">Manas Harsh</a>
    <br>
-   <br>
 <a href = "mailto: tushar.verma@owasp.org">Tushar Verma</a>
-</p>
    <div>
 <h1>Core Members</h1> 
 <a href = "mailto: rs992214@gmail.com">Rahul Singh</a>
