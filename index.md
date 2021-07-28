@@ -17,7 +17,23 @@
    <br>
 <a href = "mailto: tushar.verma@owasp.org">Tushar Verma</a>
    <div>
-<h1>Core Members</h1> 
+<h1>Core Member</h1> 
 <a href = "mailto: rs992214@gmail.com">Rahul Singh</a>
 <div>
 </div>
+      <div>
+         <h1>Volunteer Team</h1>
+         <p>
+           Ankit Patel
+           <br>
+            Aryabhatta
+           <br> 
+            Pratik Singh
+           </p>
+<div>
+<h1>Upcoming MeetUps</h1>
+   <p>
+      14th August: On Google Meet(Virtual Meetup)
+      </p>
+   </div>
+ 
