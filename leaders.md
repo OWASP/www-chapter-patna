@@ -3,5 +3,5 @@
 * [Tushar Verma](mailto:tushar.verma@owasp.org)
 
 ### Core members
-* [Rahul singh](mailto:rs992214@gmail.com)
+* [Rahul Ramakant Singh](mailto:rs992214@gmail.com)
 
