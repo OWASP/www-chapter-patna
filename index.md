@@ -1,6 +1,10 @@
 <div>
 <h1> OWASP Patna</h1>
-<p>
+## Welcome
+
+<img src="assets/images/LogoMain.png"/>
+   
+   <p>
    Welcome to OWASP Patna! This chapter is built to share the knowledge regarding application security and other security stuff, on one place:)
 </p>
 <div>
@@ -18,7 +22,7 @@
 <a href = "mailto: tushar.verma@owasp.org">Tushar Verma</a>
    <div>
 <h1>Core Member</h1> 
-<a href = "mailto: rs992214@gmail.com">Rahul R Singh</a>
+<a href = "mailto: rs992214@gmail.com">Rahul Ramakant Singh</a>
 <div>
 </div>
       <div>
