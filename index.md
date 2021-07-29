@@ -7,7 +7,6 @@ meetup-group: OWASP-Patna-Meetup-Group
 
 ---
 <h1> OWASP Patna</h1>
-## Welcome
 
 <img src="assets/images/LogoMain.png"/>
    
