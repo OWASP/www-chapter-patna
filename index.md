@@ -1,5 +1,13 @@
-<div>
+---
+layout: col-sidebar
+title: OWASP Patna
+tags: Patna OWASP Chapter India
+region: Asia
+meetup-group: OWASP-Patna-Meetup-Group
+
+---
 <h1> OWASP Patna</h1>
+## Welcome
 
 <img src="assets/images/LogoMain.png"/>
    
