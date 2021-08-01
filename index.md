@@ -30,7 +30,7 @@ meetup-group: OWASP-Patna-Meetup-Group
 <h1>Core Member</h1> 
 <a href = "mailto: rs992214@gmail.com">Rahul Ramakant Singh</a>
       <br>
-<a href = "mailto: vitajmota38@gmail.com">Viraj Mota</a> 
+<a href = "mailto: virajmota38@gmail.com">Viraj Mota</a>
 <div>
 </div>
       <div>
