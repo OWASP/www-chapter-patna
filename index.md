@@ -47,12 +47,12 @@ meetup-group: owasp-patna
    <a href = "https://www.meetup.com/owasp-patna/">MeetUp</a>
    </div>
         <div>
-           
-           
-### Upcoming Meeting:
+ 14th August: On Google Meet(Virtual Meetup)         
  
-* {% include chapter_events.html group=page.meetup-group %} 
-* 14th August: On Google Meet(Virtual Meetup)
+           
+## Upcoming Meeting:
+         
+  {% include chapter_events.html group=page.meetup-group %}        
      
    
  
