@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Patna
 tags: Patna OWASP Chapter India
 region: Asia
-meetup-group: OWASP-Patna-Meetup-Group
+meetup-group: owasp-patna
 
 ---
 <h1> OWASP Patna</h1>
