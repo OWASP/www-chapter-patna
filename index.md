@@ -49,10 +49,10 @@ meetup-group: owasp-patna
         <div>
  14th August: On Google Meet(Virtual Meetup)         
  
-           
+   <div>        
 ## Upcoming Meeting:
          
-  {% include chapter_events.html group=page.meetup-group %}        
+- {% include chapter_events.html group=page.meetup-group %}        
      
    
  
