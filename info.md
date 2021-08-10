@@ -5,4 +5,7 @@
 * [Meetup](https://www.meetup.com/owasp-patna/)
 
 
+### Core members
+* [Rahul Ramakant Singh](mailto:rs992214@gmail.com)
+* [Viraj Mota](mailto:virajmota38@gmail.com)
 
