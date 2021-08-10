@@ -50,9 +50,9 @@ meetup-group: owasp-patna
  14th August: On Google Meet(Virtual Meetup)         
  
    <div>        
-## Upcoming Meeting:
-         
-- {% include chapter_events.html group=page.meetup-group %}        
+      
+ <hi>Upcoming Meeting:<hi> <a href = "{% include chapter_events.html group=page.meetup-group %}">  
+       
      
    
  
