@@ -47,8 +47,9 @@ meetup-group: OWASP-Patna-Meetup-Group
    <a href = "https://www.meetup.com/owasp-patna/">MeetUp</a>
    </div>
         <div>
-<h1>Upcoming MeetUps</h1>
+### Upcoming MeetUps</h1>
    <p>
+{% include chapter_events.html group=page.meetup-group %}      
       14th August: On Google Meet(Virtual Meetup)
       </p>
    </div>
