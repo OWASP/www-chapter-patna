@@ -46,12 +46,12 @@ meetup-group: owasp-patna
    <h1>Links</h1>
    <a href = "https://www.meetup.com/owasp-patna/">MeetUp</a>
    </div>
-        <div>
- 14th August: On Google Meet(Virtual Meetup)         
- 
-   <div>        
+    <div>
+        <h1>Upcoming Meeting</h1>
+ <p>14th August: On Google Meet(Virtual Meetup)</p>         
+       
       
- <hi>Upcoming Meeting:<hi> <a href = "{% include chapter_events.html group=page.meetup-group %}">  
+
        
      
    
