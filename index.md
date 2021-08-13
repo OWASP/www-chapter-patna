@@ -25,10 +25,10 @@ meetup-group: owasp-patna
 <h1>Leaders</h1>
 <a href = "mailto: manas.harsh@owasp.org">Manas Harsh</a>
    <br>
-<a href = "mailto: tushar.verma@owasp.org">Tushar Verma</a>
+<a href = "mailto: rs992214@gmail.com">Rahul Singh</a>
    <div>
 <h1>Core Member</h1> 
-<a href = "mailto: rs992214@gmail.com">Rahul Ramakant Singh</a>
+<a href = "mailto: tushar.verma@owasp.org">Tushar Verma</a>
       <br>
 <a href = "mailto: virajmota38@gmail.com">Viraj Mota</a>
 <div>
