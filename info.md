@@ -6,6 +6,6 @@
 
 
 ### Core members
-* [Tushar Verma](mailto:rs992214@gmail.com)
+* [Tushar Verma](mailto:tushar.verma@owasp.org)
 * [Viraj Mota](mailto:virajmota38@gmail.com)
 
