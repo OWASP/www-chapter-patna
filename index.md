@@ -44,7 +44,10 @@ meetup-group: owasp-patna
            </p>
 <div>
    <h1>Links</h1>
-   <a href = "https://www.meetup.com/owasp-patna/">MeetUp</a>
+ We schedule our meetings on the [Patna Meetup Group](https://www.meetup.com/owasp-patna/)
+
+{% include chapter_events.html group=page.meetup-group %}   
+  
    </div>
     <div>
         <h1>Upcoming Meetups</h1>
