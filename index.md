@@ -44,7 +44,8 @@ meetup-group: owasp-patna
            </p>
 <div>
    <h1>Links</h1>
- We schedule our meetings on the [Patna Meetup Group](https://www.meetup.com/owasp-patna/)
+   
+We schedule our meetings on the [Patna Meetup Group](https://www.meetup.com/owasp-patna/)
 
 {% include chapter_events.html group=page.meetup-group %}   
   
