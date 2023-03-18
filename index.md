@@ -8,6 +8,9 @@ currency: inr
 meetup-group: owasp-patna
 country: India
 postal-code: 800001
+
+
+
 ---
 
 <img src="LogoMain.png" width="640" height="360" alt="OWASPLogo">
