@@ -10,7 +10,7 @@ country: India
 postal-code: 800001
 ---
 
-<img src="/assets/images/LogoMain.png" width=640 height=360 alt="OWASPLogo">
+# <img src="/assets/images/LogoMain.png" width=640 height=360 alt="OWASPLogo">
 
 # Welcome
 
