@@ -13,7 +13,7 @@ postal-code: 800001
 
 ---
 
-<img src="LogoMain.png" width="900" alt="OWASPLogo">
+<img src="LogoMain.png" width="960" alt="OWASPLogo">
 
 # Welcome
 
