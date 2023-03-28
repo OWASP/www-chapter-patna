@@ -5,7 +5,7 @@ title: OWASP Patna
 tags: patna
 region: Asia
 currency: inr
-meetup-group: owasp-patna
+meetup-group: owasp-patna-chapter
 country: India
 postal-code: 800001
 
@@ -29,6 +29,8 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 # Upcoming Meetup
 
-We schedule our meetings on the [OWASP Patna Meetup Group](https://www.meetup.com/owasp-patna/)
+We schedule our meetings on the [OWASP Patna Meetup Group](https://www.meetup.com/owasp-patna-chapter/)
+
+{% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the everyone.
