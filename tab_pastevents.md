@@ -15,7 +15,7 @@ ___
 
 ## Securing AWS Cloud Infrastructure
 
-<img src="/assets/images/OWASP%20PATNA%20SESSION%2001.png"  width="500" height="500">
+<img src="OWASP%20PATNA%20SESSION%2001.png"  width="500" height="500">
 
 | Date             | Mode   | Recording                                                                        | Speaker                                                   |
 |------------------|--------|----------------------------------------------------------------------------------|-----------------------------------------------------------|
