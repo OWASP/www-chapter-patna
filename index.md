@@ -25,7 +25,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
 # <b><i>Speaker</i></b>
-If you are interested being a speaker on <i><b>OWASP Patna</i></b>, we request you to kindly submit your details in the form below.
+If you are interested being a speaker on <b><i>OWASP Patna</i></b>, we request you to kindly submit your details in the form below.
 
 [Become a Speaker](https://forms.gle/fvP23EuT6KewwkL3A)
 
