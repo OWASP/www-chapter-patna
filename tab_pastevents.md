@@ -12,7 +12,7 @@ tags: patna
 # Our past events are listed below
 
 |Session| Date | Speaker | Video | PPT |
-|:-----:|:----:|:-----:|:-------:| :--
+|:-----:|:----:|:-----:|:-------:| :--:|
 | 01 | 22-04-2023 | [Shashank Dubey](https://www.linkedin.com/in/shashankssm) | [Securing AWS Cloud Infrastructure](https://youtu.be/9yJxdc-s0j8) | [Download Link]() |
 | 02 | 20-05-2023	| [Inderjeet Singh](https://linkedin.com/in/encodedguy) | [Playing with Access Control](https://youtu.be/KBWF8V69nok) | [Download Link]() |
 | 03 | 08-07-2023	| [Saurabh Kumar](https://linkedin.com/in/saurabh-kumar-3b1737215) | [File Upload Vulnerabilities Explored](https://youtu.be/PO4WlSF8AFI) | [Download Link]() |
