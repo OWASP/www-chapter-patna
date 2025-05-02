@@ -4,7 +4,7 @@
   speaker: Vishal Sharma
   speaker_linkedin: https://www.linkedin.com/in/vish-hal/
   video_url: https://youtu.be/oE2fyZDmnJs
-  ppt_url: null
+  ppt_url: https://github.com/OWASP/www-chapter-patna/blob/main/presentations/Session%2012%20-%20Understanding%20and%20exploiting%20JWT%20attacks%20by%20Vishal%20Sharma.pdf
 - session: 11
   title: Bugs, Bounties, and Beginners - Insights for Aspiring Hunters
   date: 2025-01-18
@@ -18,14 +18,14 @@
   speaker: Pranshu Tiwari
   speaker_linkedin: https://in.linkedin.com/in/pranshu-tiwari
   video_url: https://youtu.be/-ro7beqLh0g
-  ppt_url: https://bit.ly/3A6a8ST
+  ppt_url: https://github.com/OWASP/www-chapter-patna/blob/main/presentations/Session%2010%20-%20Advanced%20Burpsuite%20Techniques%20(Pranshu%20Tiwari).pdf
 - session: 09
   title: Offensive System and Network Security
   date: 2024-08-31
   speaker: Manan Jain
   speaker_linkedin: https://linkedin.com/in/mananjain97
   video_url: https://youtu.be/Da1Q5F5729k
-  ppt_url: null
+  ppt_url: https://github.com/OWASP/www-chapter-patna/blob/main/presentations/Session%2009%20-%20Offensive%20System%20and%20Network%20Security%20(Manan%20Jain).pptx
 - session: 08
   title: Web Cache Deception
   date: 2024-04-13
@@ -81,4 +81,4 @@
   speaker: Shashank Dubey
   speaker_linkedin: https://www.linkedin.com/in/shashankssm
   video_url: https://youtu.be/9yJxdc-s0j8
-  ppt_url: null
+  ppt_url: https://github.com/OWASP/www-chapter-patna/blob/main/presentations/Securing%20AWS%20Cloud%20Infrastructure.pdf
