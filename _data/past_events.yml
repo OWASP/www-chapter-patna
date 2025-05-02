@@ -6,7 +6,7 @@
   video_url: https://youtu.be/oE2fyZDmnJs
   ppt_url: null
 - session: 11
-  title: Bugs, Bounties, and Beginners : Insights for Aspiring Hunters
+  title: Bugs, Bounties, and Beginners - Insights for Aspiring Hunters
   date: 2025-01-18
   speaker: Jayesh Kunwal
   speaker_linkedin: https://www.linkedin.com/in/jayeshkunwal
@@ -34,21 +34,21 @@
   video_url: https://youtu.be/JZvRMWuIR4Y
   ppt_url: null
 - session: 07
-  title: Thick Client Pentest: Modern Approaches and Techniques
+  title: Thick Client Pentest - Modern Approaches and Techniques
   date: 2024-02-03
   speaker: Viraj Mota
   speaker_linkedin: https://www.linkedin.com/in/viraj-mota
   video_url: https://youtu.be/BBA72uLgcMg
   ppt_url: null
 - session: 06
-  title: Behind the Scenes of SSRF: A Comprehensive Exploration
+  title: Behind the Scenes of SSRF - A Comprehensive Exploration
   date: 2023-11-25
   speaker: Rajveersinh Parmar
   speaker_linkedin: https://www.linkedin.com/in/rajveer67/
   video_url: https://youtu.be/6Y5ZpxjThNg
   ppt_url: null
 - session: 05
-  title: Moving forward in bug bounties: Guide to a never-ending Road
+  title: Moving forward in bug bounties - Guide to a never-ending Road
   date: 2023-10-21
   speaker: Manas Harsh
   speaker_linkedin: https://www.linkedin.com/in/manasharsh
