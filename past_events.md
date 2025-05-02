@@ -15,15 +15,11 @@ tags: patna
   <ul>
     {% for event in past_events %}
       <li>
-        <strong>Session {{ event.session }}:</strong> {{ event.title }}
-        <br>
-        Date: {{ event.date | date: "%d-%m-%Y" }}
-        <br>
-        Speaker: <a href="{{ event.speaker_linkedin }}">{{ event.speaker }}</a>
-        <br>
+        <strong>Session {{ event.session }}:</strong> {{ event.title }}<br>
+        Date: {{ event.date | date: "%d-%m-%Y" }}<br>
+        Speaker: <a href="{{ event.speaker_linkedin }}">{{ event.speaker }}</a><br>
         {% if event.video_url %}
-          Video: <a href="{{ event.video_url }}">{{ event.title }}</a>
-          <br>
+          Video: <a href="{{ event.video_url }}">{{ event.title }}</a><br>
         {% endif %}
         {% if event.ppt_url %}
           Presentation: <a href="{{ event.ppt_url }}">Download Slides</a>
