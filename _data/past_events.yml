@@ -3,82 +3,82 @@
   date: 2024-08-31
   speaker: Vishal Sharma
   speaker_linkedin: https://www.linkedin.com/in/vish-hal/
-  video_url: https://youtu.be/oE2fyZDmnJs  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/oE2fyZDmnJs  # Replace
+  ppt_url:  # Replace
 - session: 11
   title: Bugs, Bounties, and Beginners : Insights for Aspiring Hunters
   date: 2025-01-18
   speaker: Jayesh Kunwal
   speaker_linkedin: https://www.linkedin.com/in/jayeshkunwal
-  video_url: https://youtu.be/Ucve3aUzWWA  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/Ucve3aUzWWA  # Replace
+  ppt_url:  # Replace
 - session: 10
   title: Advanced Burp Techniques
   date: 2024-10-19
   speaker: Pranshu Tiwari
   speaker_linkedin: https://in.linkedin.com/in/pranshu-tiwari
-  video_url: https://youtu.be/-ro7beqLh0g  # Replace
-  ppt_url: https://bit.ly/3A6a8ST      # Replace
+  video_url: https://youtu.be/-ro7beqLh0g  # Replace
+  ppt_url: https://bit.ly/3A6a8ST  # Replace
 - session: 09
   title: Offensive System and Network Security
   date: 2024-08-31
   speaker: Manan Jain
   speaker_linkedin: https://linkedin.com/in/mananjain97
-  video_url: https://youtu.be/Da1Q5F5729k  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/Da1Q5F5729k  # Replace
+  ppt_url:  # Replace
 - session: 08
   title: Web Cache Deception
   date: 2024-04-13
   speaker: Kuldeep Pandya
   speaker_linkedin: https://linkedin.com/in/kuldeep-pandya-13a26a167
-  video_url: https://youtu.be/JZvRMWuIR4Y  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/JZvRMWuIR4Y  # Replace
+  ppt_url:  # Replace
 - session: 07
   title: Thick Client Pentest: Modern Approaches and Techniques
   date: 2024-02-03
   speaker: Viraj Mota
   speaker_linkedin: https://www.linkedin.com/in/viraj-mota
-  video_url: https://youtu.be/BBA72uLgcMg  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/BBA72uLgcMg  # Replace
+  ppt_url:  # Replace
 - session: 06
   title: Behind the Scenes of SSRF: A Comprehensive Exploration
   date: 2023-11-25
   speaker: Rajveersinh Parmar
   speaker_linkedin: https://www.linkedin.com/in/rajveer67/
-  video_url: https://youtu.be/6Y5ZpxjThNg  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/6Y5ZpxjThNg  # Replace
+  ppt_url:  # Replace
 - session: 05
   title: Moving forward in bug bounties: Guide to a never-ending Road
   date: 2023-10-21
   speaker: Manas Harsh
   speaker_linkedin: https://www.linkedin.com/in/manasharsh
-  video_url: hhttps://youtu.be/TZI4MsBgHco  # Replace
-  ppt_url:       # Replace
+  video_url: hhttps://youtu.be/TZI4MsBgHco  # Replace
+  ppt_url:  # Replace
 - session: 04
   title: Advanced Persistent Threat
   date: 2023-09-02
   speaker: Saurabh Kashyap
   speaker_linkedin: https://www.linkedin.com/in/shyap/
-  video_url: https://youtu.be/XUctfT7g-Uo  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/XUctfT7g-Uo  # Replace
+  ppt_url:  # Replace
 - session: 03
   title: File Upload Vulnerabilities Explored
   date: 2023-07-08
   speaker: Saurabh Kumar
   speaker_linkedin: https://linkedin.com/in/saurabh-kumar-3b1737215
-  video_url: https://youtu.be/PO4WlSF8AFI  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/PO4WlSF8AFI  # Replace
+  ppt_url:  # Replace
 - session: 02
   title: Playing with Access Control
   date: 2023-05-20
   speaker: Inderjeet Singh
   speaker_linkedin: https://linkedin.com/in/encodedguy
-  video_url: https://youtu.be/KBWF8V69nok  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/KBWF8V69nok  # Replace
+  ppt_url:  # Replace
 - session: 01
   title: Securing AWS Cloud Infrastructure
   date: 2023-04-22
   speaker: Shashank Dubey
   speaker_linkedin: https://www.linkedin.com/in/shashankssm
-  video_url: https://youtu.be/9yJxdc-s0j8  # Replace
-  ppt_url:       # Replace
+  video_url: https://youtu.be/9yJxdc-s0j8  # Replace
+  ppt_url:  # Replace
