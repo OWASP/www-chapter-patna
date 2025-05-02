@@ -37,5 +37,5 @@ Upcoming session details can be found on the [OWASP Patna Meetup](https://www.me
 
 <br>
 
-Check out our [past sessions](https://github.com/OWASP/www-chapter-patna/blob/main/tab_pastevents.md)
+Check out our [past sessions](_includes/past_events_table.html)
 
