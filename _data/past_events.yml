@@ -52,7 +52,7 @@
   date: 2023-10-21
   speaker: Manas Harsh
   speaker_linkedin: https://www.linkedin.com/in/manasharsh
-  video_url: hhttps://youtu.be/TZI4MsBgHco  # Replace
+  video_url: https://youtu.be/TZI4MsBgHco  # Replace
   ppt_url:  # Replace
 - session: 04
   title: Advanced Persistent Threat
