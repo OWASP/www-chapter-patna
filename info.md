@@ -3,9 +3,8 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-patna-chapter)
-* [Linkedin](https://www.linkedin.com/company/owasp-patna)
-* [Youtube](https://www.youtube.com/@owasp-patna)
+* [Linkedin](https://www.linkedin.com/company/owasp-patna-chapter)
+* [Youtube](https://www.youtube.com/@owasp-patna-chapter)
 
 ### Core members
-* [Viraj Mota](mailto:virajmota38@gmail.com)
-
+* [Viraj Mota]()
