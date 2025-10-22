@@ -1,0 +1,30 @@
+currency: INR
+leaders:
+  - name: Manas Kumar Harsh
+    email: manas.harsh@owasp.org
+    github: ManasHarsh
+  - name: Alya Verma
+    email: alya.verma@owasp.org
+    github: alya-verma
+  - name: Rahul Mishra
+    email: rahul.mishra1@owasp.org
+    github: infosec-rahul
+location:
+  country: India
+  country_code: IN
+  region: Bihar
+  city: Patna
+  postal_code: '800001'
+  latitude: 25.6093239
+  longitude: 85.1235252
+meetup_group: owasp-patna-chapter
+name: OWASP Patna
+repositories:
+  - name: www-chapter-patna
+    url: https://github.com/OWASP/www-chapter-patna
+    description: OWASP Foundation Web Repository
+tags:
+  - patna
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-patna
