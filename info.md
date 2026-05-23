@@ -7,4 +7,6 @@
 * [Youtube](https://www.youtube.com/@owasp-patna-chapter)
 
 ### Core members
-* [Viraj Mota]()
+* [Manas Kumar Harsh](mailto:manas.harsh@owasp.org)
+* [Alya Verma](mailto:alya.verma@owasp.org)
+* [Rahul Mishra](mailto:rahul.mishra1@owasp.org)
