@@ -39,3 +39,11 @@ Upcoming session details can be found on the [OWASP Patna Meetup](https://www.me
 
 Check out our [past sessions](tab_pastevents.md)
 
+# <b><i>Community Partner</i></b>
+
+[![InfoSecMap](https://infosecmap.com/assets/images/logo.png)](https://infosecmap.com/)
+
+[InfoSecMap](https://infosecmap.com/) is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.
+
+[Visit InfoSecMap](https://infosecmap.com/)
+
