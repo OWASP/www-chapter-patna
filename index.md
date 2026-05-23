@@ -15,14 +15,14 @@ postal-code: 800001
 
 # <b><i>Welcome</i></b>
 
-Greetings from the <b>OWASP Patna</b> chapter! 
+Greetings from the <b>OWASP Patna</b> chapter!
 
 We are a community of cybersecurity enthusiasts committed to improving software security in our region. Our chapter, which is a part of the worldwide OWASP network, aims to connect regional experts, academics, and students who are interested in software security. You can keep up with the most recent security trends, gain knowledge from professionals, and take part in neighborhood activities by becoming a member of our chapter. Our chapter is a wonderful place to meet like-minded people and develop your skills, whether you are a seasoned cybersecurity expert or are just starting out in the field. Anyone with an interest in software security is invited to join us and participate in our community. We appreciate you being interested in the OWASP Patna chapter.
 
 # <b><i>Participation</i></b>
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
 
 # <b><i>Speaker</i></b>
 If you are interested being a speaker on <b><i>OWASP Patna</i></b>, we request you to kindly submit your details in the form below.
@@ -31,9 +31,11 @@ If you are interested being a speaker on <b><i>OWASP Patna</i></b>, we request y
 
 # <b><i>Upcoming Meetup</i></b>
 
-Upcoming session details can be found on the [OWASP Patna Meetup](https://www.meetup.com/owasp-patna-chapter/)
+Upcoming session details can be found on the [OWASP Patna Chapter](https://www.owasp.community/chapters/patna)
 
+<!-- Meetup integration previously provided by OWASP (kept for reference)
 {% include chapter_events.html group=page.meetup-group %}
+-->
 
 <br>
 
@@ -41,9 +43,12 @@ Check out our [past sessions](tab_pastevents.md)
 
 # <b><i>Community Partner</i></b>
 
-[![InfoSecMap](https://infosecmap.com/assets/images/logo.png)](https://infosecmap.com/)
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://infosecmap.com/" target="_blank">
+    <img src="assets/images/InfoSecMap-logo.png" width="300" alt="InfoSecMap Logo" style="display: block; margin: 0 auto;">
+  </a>
+</div>
 
 [InfoSecMap](https://infosecmap.com/) is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.
 
 [Visit InfoSecMap](https://infosecmap.com/)
-
